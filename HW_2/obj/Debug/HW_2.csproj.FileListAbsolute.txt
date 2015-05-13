@@ -4,3 +4,6 @@ c:\users\hao\documents\visual studio 2013\Projects\HW_2\HW_2\bin\Debug\HW_2.pdb
 c:\users\hao\documents\visual studio 2013\Projects\HW_2\HW_2\obj\Debug\HW_2.csprojResolveAssemblyReference.cache
 c:\users\hao\documents\visual studio 2013\Projects\HW_2\HW_2\obj\Debug\HW_2.exe
 c:\users\hao\documents\visual studio 2013\Projects\HW_2\HW_2\obj\Debug\HW_2.pdb
+C:\Users\hao\Desktop\HW_2\HW_2\bin\Debug\HW_2.exe.config
+C:\Users\hao\Desktop\HW_2\HW_2\obj\Debug\HW_2.exe
+C:\Users\hao\Desktop\HW_2\HW_2\obj\Debug\HW_2.pdb
