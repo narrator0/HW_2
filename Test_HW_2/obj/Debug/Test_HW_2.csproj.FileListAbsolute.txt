@@ -5,3 +5,10 @@ c:\Users\hao\documents\visual studio 2013\Projects\HW_2\Test_HW_2\obj\Debug\Test
 c:\Users\hao\documents\visual studio 2013\Projects\HW_2\Test_HW_2\obj\Debug\Test_HW_2.pdb
 C:\Users\hao\Documents\Visual Studio 2013\Projects\HW_2\Test_HW_2\bin\Debug\HW_2.exe
 C:\Users\hao\Documents\Visual Studio 2013\Projects\HW_2\Test_HW_2\bin\Debug\HW_2.pdb
+C:\Users\hao\Desktop\HW_2\Test_HW_2\bin\Debug\Test_HW_2.dll
+C:\Users\hao\Desktop\HW_2\Test_HW_2\bin\Debug\Test_HW_2.pdb
+C:\Users\hao\Desktop\HW_2\Test_HW_2\bin\Debug\HW_2.exe
+C:\Users\hao\Desktop\HW_2\Test_HW_2\bin\Debug\HW_2.pdb
+C:\Users\hao\Desktop\HW_2\Test_HW_2\obj\Debug\Test_HW_2.csprojResolveAssemblyReference.cache
+C:\Users\hao\Desktop\HW_2\Test_HW_2\obj\Debug\Test_HW_2.dll
+C:\Users\hao\Desktop\HW_2\Test_HW_2\obj\Debug\Test_HW_2.pdb
