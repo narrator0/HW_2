@@ -1,0 +1,7 @@
+c:\Users\hao\documents\visual studio 2013\Projects\HW_2\Test_HW_2\bin\Debug\Test_HW_2.dll
+c:\Users\hao\documents\visual studio 2013\Projects\HW_2\Test_HW_2\bin\Debug\Test_HW_2.pdb
+c:\Users\hao\documents\visual studio 2013\Projects\HW_2\Test_HW_2\obj\Debug\Test_HW_2.csprojResolveAssemblyReference.cache
+c:\Users\hao\documents\visual studio 2013\Projects\HW_2\Test_HW_2\obj\Debug\Test_HW_2.dll
+c:\Users\hao\documents\visual studio 2013\Projects\HW_2\Test_HW_2\obj\Debug\Test_HW_2.pdb
+C:\Users\hao\Documents\Visual Studio 2013\Projects\HW_2\Test_HW_2\bin\Debug\HW_2.exe
+C:\Users\hao\Documents\Visual Studio 2013\Projects\HW_2\Test_HW_2\bin\Debug\HW_2.pdb
