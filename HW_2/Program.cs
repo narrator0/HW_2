@@ -43,7 +43,9 @@ namespace HW_2
                 //執行找尋工作
                 activity.do_in_one();
 
-            } while (k == 0);    
+                Console.WriteLine("haha");
+            } while (k == 0);  
+  
         }
     }
 }
